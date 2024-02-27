@@ -13,4 +13,5 @@ II. Inverse Laplace Transform
 ![assign 1_II](https://github.com/miws14/CSE_Laplace-InverseLaplace_ECE425_ME4203_Group5_2024/assets/161241151/72fbbc50-1630-4395-bffd-dc33451afead)
 
 III. Inverse Laplace Transform
+![429089366_7573045182719153_978601946054649731_n](https://github.com/miws14/CSE_Laplace-InverseLaplace_ECE425_ME4203_Group5_2024/assets/161305619/61d534ed-41e6-454d-bdfd-831755f1bcca)
 
